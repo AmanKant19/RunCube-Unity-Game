@@ -1,0 +1,16 @@
+{
+"companyName": "Aman Kant",
+"productName": "RunCube",
+"productVersion": "0.1",
+"dataUrl": "RunCube.data.unityweb",
+"wasmCodeUrl": "RunCube.wasm.code.unityweb",
+"wasmFrameworkUrl": "RunCube.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1F1D1D",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
